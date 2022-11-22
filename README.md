@@ -1,3 +1,3 @@
 # Get familiar with Github
 
-first step
+first step.
